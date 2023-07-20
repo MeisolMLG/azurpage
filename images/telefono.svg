@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14mm" height="14mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1400 1400"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#D2D3D5;stroke-width:150;stroke-miterlimit:10}
+    .fil0 {fill:#D2D3D5}
+    .fil2 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.597219 0.0531281 0.0872175 1.07121 533 -39)" cx="349.52" cy="286.14" r="161.35" fx="349.52" fy="286.14">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00AFEF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#325094"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.597944 0.0531926 0.087687 1.07697 1184 -92)" xlink:href="#id0" cx="777.43" cy="662.62" r="565.32" fx="777.43" fy="662.62">
+  </radialGradient>
+  <radialGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.863511 0.0768172 0.0875485 1.07527 1490 -155)" xlink:href="#id0" cx="855" cy="1181.05" r="144.65" fx="855" fy="1181.05">
+  </radialGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1642490075376">
+   <g>
+    <path class="fil0 str0" d="M390.98 94.37c6.32,118.15 43.86,220.74 108.66,312.38 5.75,8.29 22.07,14.43 31.56,13.58 67.83,-9.4 111.73,20.86 147.66,80.9 59.19,96.44 127.75,187.4 163.65,297.99 21.04,64.21 33.85,127 -14.19,185.11 -5.5,6.26 -2.54,23.94 2.7,33.23 36.98,77.11 84.11,145.9 149.29,199.46 57.22,46.32 60.8,46.61 113.17,-3.08l47.5 -72.04c20.95,-106.25 -4.01,-207.2 -34.43,-306.47 -79.48,-264.67 -230.75,-481.3 -410.79,-676.21 -82.73,-89.43 -188.65,-104.34 -304.78,-64.85z"/>
+    <path class="fil0 str0" d="M457.45 431.93c-77.59,-91.7 -115.24,-198.87 -126.42,-317.44 -59.21,9.24 -96.35,62.14 -82.2,122.65 12.5,50.65 27.52,100.13 47.74,146.99 34.19,79.17 84,93.55 160.88,47.8z"/>
+    <path class="fil0 str0" d="M990.45 1291.15c-100.84,-61.59 -169.98,-149.22 -212.47,-260.78 -46.16,27.23 -63.6,69.58 -46.89,121.07 21.52,65.98 59.62,120.39 116.13,157.98 51.43,34.33 90.71,29.63 143.23,-18.27z"/>
+   </g>
+   <g>
+    <path class="fil1" d="M390.98 94.37c6.32,118.15 43.86,220.74 108.66,312.38 5.75,8.29 22.07,14.43 31.56,13.58 67.83,-9.4 111.73,20.86 147.66,80.9 59.19,96.44 127.75,187.4 163.65,297.99 21.04,64.21 33.85,127 -14.19,185.11 -5.5,6.26 -2.54,23.94 2.7,33.23 36.98,77.11 84.11,145.9 149.29,199.46 57.22,46.32 60.8,46.61 113.17,-3.08l47.5 -72.04c20.95,-106.25 -4.01,-207.2 -34.43,-306.47 -79.48,-264.67 -230.75,-481.3 -410.79,-676.21 -82.73,-89.43 -188.65,-104.34 -304.78,-64.85z"/>
+    <path class="fil2" d="M457.45 431.93c-77.59,-91.7 -115.24,-198.87 -126.42,-317.44 -59.21,9.24 -96.35,62.14 -82.2,122.65 12.5,50.65 27.52,100.13 47.74,146.99 34.19,79.17 84,93.55 160.88,47.8z"/>
+    <path class="fil3" d="M990.45 1291.15c-100.84,-61.59 -169.98,-149.22 -212.47,-260.78 -46.16,27.23 -63.6,69.58 -46.89,121.07 21.52,65.98 59.62,120.39 116.13,157.98 51.43,34.33 90.71,29.63 143.23,-18.27z"/>
+   </g>
+  </g>
+ </g>
+</svg>

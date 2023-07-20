@@ -1,0 +1,92 @@
+ .u-section-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin-top: 322px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 88px auto 60px;
+  padding: 12px 78px 13px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 471px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 168px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 97px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 317px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 279px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 291px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 56px;
+  }
+}
+
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.appwhatsapp {
+position:fixed;
+right:60px;
+bottom:100px;
+width: 40px;
+height: 150px;
+z-index:1000;
+}
+.appwhatsapp img{
+width: 60px;
+height: auto;
+  }

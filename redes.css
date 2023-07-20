@@ -1,0 +1,162 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 990px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 569px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 506px;
+  min-height: 437px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  margin: -144px calc(((100% - 1140px) / 2) + 64px) 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 51px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 3px;
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 500;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 101px auto 0 0;
+  padding: 16px 47px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 865px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 476px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -76px;
+    margin-right: calc(((100% - 940px) / 2));
+    margin-bottom: 29px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 380px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 470px;
+    margin-top: -64px;
+    margin-right: calc(((100% - 720px) / 2));
+    margin-bottom: 57px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 75px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 824px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 330px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -69px;
+    margin-right: calc(((100% - 540px) / 2) + -11px);
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 270px;
+    object-position: 0% 50%;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -65px;
+    margin-right: auto;
+    margin-bottom: 54px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 54px;
+  }
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.appwhatsapp {
+position:fixed;
+right:60px;
+bottom:100px;
+width: 40px;
+height: 70px;
+z-index:1000;
+}
+.appwhatsapp img{
+width: 60px;
+height: auto;
+  }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14mm" height="14mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1400 1400"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E6E7E8;stroke-width:200;stroke-miterlimit:22.9256}
+    .fil0 {fill:#E6E7E8;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+    .fil1 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.07268E-13 1.04053 -1.08224 1.03157E-13 1437 -37)" cx="694.88" cy="685.97" r="3951.11" fx="694.88" fy="685.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00AFEF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#325094"/>
+  </radialGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1606511443312">
+   <path class="fil0 str0" d="M694.88 143.64c-273.68,0 -495.55,218.23 -495.55,487.42 0,150.99 69.8,285.93 179.39,375.33l0 182.06 168.7 -91.91c46.58,14.26 96.11,21.95 147.46,21.95 273.69,0 495.55,-218.23 495.55,-487.43 0,-269.19 -221.86,-487.42 -495.55,-487.42z"/>
+   <path class="fil1" d="M694.88 168.02c-260.91,0 -472.42,208.04 -472.42,464.67 0,143.94 66.54,272.59 171.01,357.82l0 173.56 160.83 -87.62c44.41,13.6 91.62,20.92 140.58,20.92 260.91,0 472.42,-208.04 472.42,-464.68 0,-256.63 -211.51,-464.67 -472.42,-464.67z"/>
+   <polygon class="fil2" points="380.65,790.55 620.06,657.15 744.05,795 1000.57,501.52 761.15,634.92 637.16,505.96 "/>
+  </g>
+ </g>
+</svg>
