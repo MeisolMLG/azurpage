@@ -32,6 +32,18 @@
   border: 1px solid #3b82f6; /* Equivalente a focus:ring y focus:ring-blue */
 }
 
+        /* Estilos para pantallas más grandes (por defecto) */
+        p {
+          font-size: 16px;
+      }
+
+      /* Media query para pantallas con un ancho máximo de 768px (dispositivos móviles) */
+      @media only screen and (max-width: 768px) {
+          p {
+              font-size: 14px; /* Tamaño de fuente más pequeño para dispositivos móviles */
+          }
+          /* También puedes agregar estilos específicos para dispositivos móviles aquí */
+      }
 /* Estilo del texto */
 .text-error {
   color: var(--text-error-color);
